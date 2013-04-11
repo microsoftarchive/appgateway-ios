@@ -1,0 +1,53 @@
+# MICROSOFT OPEN TECHNOLOGIES SOFTWARE LICENSE TERMS
+#APPLICATION GATEWAY
+
+These license terms are an agreement between Microsoft Open Technologies, Inc. (“Microsoft Open Tech”) and you. Please read them. They apply to the software named above, which includes the media on which you received it, if any. The terms also apply to any Microsoft Open Tech
+- updates,
+- supplements,
+- Internet-based services, and
+- support services
+for this software, unless other terms accompany those items. If so, those terms apply.
+
+By using the software, you accept these terms. If you do not accept them, do not use the software.
+
+---------------------------------
+
+*If you comply with these license terms, you have the perpetual rights below.* 
+
+1.  **INSTALLATION AND USE RIGHTS.** You may install and use any number of copies of the software on your devices for use solely with Windows Azure Application Gateway.
+
+2.  **INTERNET-BASED SERVICES.** Microsoft Open Tech provides Internet-based services with the software. It may change or cancel them at any time. For more information, go to http://go.microsoft.com/fwlink/?LinkID=294657.
+
+3.  **SCOPE OF LICENSE.** The software is licensed, not sold. This agreement only gives you some rights to use the software. Microsoft Open Tech reserves all other rights. Unless applicable law gives you more rights despite this limitation, you may use the software only as expressly permitted in this agreement. In doing so, you must comply with any technical limitations in the software that only allow you to use it in certain ways. You may not
+	- work around any technical limitations in the software;
+	- reverse engineer, decompile or disassemble the software, except and only to the extent that applicable law expressly permits, despite this limitation;
+	- distribute the software to others;
+	- publish the software for others to copy;
+	- rent, lease or lend the software;
+	- transfer the software or this agreement to any third party; or
+	- use the software for commercial software hosting services.
+
+4.  **DOCUMENTATION**. Any person that has valid access to your computer or internal network may copy and use the documentation for your internal, reference purposes.
+
+5.  **EXPORT RESTRICTIONS** The software is subject to United States export laws and regulations. You must comply with all domestic and international export laws and regulations that apply to the software. These laws include restrictions on destinations, end users and end use. For additional information, see www.microsoft.com/exporting.
+
+6.  **SUPPORT SERVICES.** Because this software is “as is,” we will not provide support services for it.
+
+7.  **ENTIRE AGREEMENT.** This agreement, and the terms for supplements, updates, Internet-based services and support services that you use, are the entire agreement for the software and support services.
+
+8.  **APPLICABLE LAW.**
+	- United States. If you acquired the software in the United States, Washington state law governs the interpretation of this agreement and applies to claims for breach of it, regardless of conflict of laws principles. The laws of the state where you live govern all other claims, including claims under state consumer protection laws, unfair competition laws, and in tort.
+	- Outside the United States. If you acquired the software in any other country, the laws of that country apply.
+
+9.  **LEGAL EFFECT.** This agreement describes certain legal rights. You may have other rights under the laws of your country. You may also have rights with respect to the party from whom you acquired the software. This agreement does not change your rights under the laws of your country if the laws of your country do not permit it to do so.
+
+10.  **DISCLAIMER OF WARRANTY. THE SOFTWARE IS LICENSED “AS-IS.” YOU BEAR THE RISK OF USING IT. MICROSOFT OPEN TECH GIVES NO EXPRESS WARRANTIES, GUARANTEES OR CONDITIONS. YOU MAY HAVE ADDITIONAL CONSUMER RIGHTS OR STATUTORY GUARANTEES UNDER YOUR LOCAL LAWS WHICH THIS AGREEMENT CANNOT CHANGE. TO THE EXTENT PERMITTED UNDER YOUR LOCAL LAWS, MICROSOFT OPEN TECH EXCLUDES THE IMPLIED WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NON-INFRINGEMENT.**
+**FOR AUSTRALIA – YOU HAVE STATUTORY GUARANTEES UNDER THE AUSTRALIAN CONSUMER LAW AND NOTHING IN THESE TERMS IS INTENDED TO AFFECT THOSE RIGHTS.**
+
+11.  **LIMITATION ON AND EXCLUSION OF REMEDIES AND DAMAGES. YOU CAN RECOVER FROM MICROSOFT OPEN TECH AND ITS SUPPLIERS ONLY DIRECT DAMAGES UP TO U.S. $5.00. YOU CANNOT RECOVER ANY OTHER DAMAGES, INCLUDING CONSEQUENTIAL, LOST PROFITS, SPECIAL, INDIRECT OR INCIDENTAL DAMAGES.**
+This limitation applies to
+	- anything related to the software, services, content (including code) on third party Internet sites, or third party programs; and
+	- claims for breach of contract, breach of warranty, guarantee or condition, strict liability, negligence, or other tort to the extent permitted by applicable law.
+
+It also applies even if Microsoft Open Tech knew or should have known about the possibility of the damages. The above limitation or exclusion may not apply to you because your country may not allow the exclusion or limitation of incidental, consequential or other damages.
+

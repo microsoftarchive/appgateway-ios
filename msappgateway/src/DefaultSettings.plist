@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>RouterHostname</key>
+	<string>appgateway.cloudapp.net</string>
+	<key>RouterBrowserPort</key>
+	<integer>443</integer>
+	<key>RouterAdminPort</key>
+	<integer>443</integer>
+	<key>RouterOrgIdRPName</key>
+	<string>appgportal.cloudapp.net</string>
+</dict>
+</plist>
